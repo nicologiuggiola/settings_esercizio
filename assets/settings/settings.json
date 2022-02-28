@@ -1,0 +1,16 @@
+{
+    "theme":"light",
+    "title":"Le dolcezze di Giorgia",
+    "headerImage":"./assets/images/1920x400.jpg",
+    "footerLinks":[
+        {
+            "url":"https://www.facebook.com/GiorgiaMissCake/",
+            "text":"Scoprimi su Facebook"
+        },
+
+        {
+            "url":"tel:+3933399917218",
+            "text":"Chiamami"
+        }
+    ]
+}
